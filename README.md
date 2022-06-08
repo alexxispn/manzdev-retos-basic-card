@@ -1,6 +1,7 @@
 # manzdev-retos-titulo
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
+
 🌐 **URL del despliege**: *https://alexxispn.github.io/manzdev-retos-basic-card/*
 
 ## Datos
